@@ -1,0 +1,5 @@
+.env
+go.mod
+go.sum
+main_test.go
+main.go
